@@ -1,0 +1,10 @@
+49.205.114.233 - - [30/Sep/2026:10:05:56 +0000] "GET /diabetes-care/ HTTP/1.1" 200 2086
+49.205.114.233 - - [30/Sep/2026:10:05:57 +0000] "GET /diabetes-care/css/style.css HTTP/1.1" 200 929
+49.205.114.233 - - [30/Sep/2026:10:05:57 +0000] "GET /favicon.ico HTTP/1.1" 200 21630
+49.205.114.233 - - [30/Sep/2026:10:11:57 +0000] "GET /diabetes-care/ HTTP/1.1" 304 -
+49.205.114.233 - - [30/Sep/2026:10:11:57 +0000] "GET /diabetes-care/css/style.css HTTP/1.1" 304 -
+49.205.114.233 - - [30/Sep/2026:10:11:58 +0000] "GET /diabetes-care/ HTTP/1.1" 304 -
+49.205.114.233 - - [30/Sep/2026:10:11:59 +0000] "GET /diabetes-care/ HTTP/1.1" 304 -
+49.205.114.233 - - [30/Sep/2026:10:11:59 +0000] "GET /diabetes-care/ HTTP/1.1" 304 -
+177.188.141.75 - - [30/Sep/2026:10:35:02 +0000] "GET /hachk.php HTTP/1.1" 404 761
+39.34.168.97 - - [30/Sep/2026:10:35:36 +0000] "GET /boaform/admin/formLogin?username=adminisp&psd=adminisp HTTP/1.0" 404 783
